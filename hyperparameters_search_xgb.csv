@@ -1,0 +1,2 @@
+colsample_bytree,gamma,max_depth,min_child_weight
+1.0,1.5,5,1
