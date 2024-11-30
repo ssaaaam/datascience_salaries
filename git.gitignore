@@ -1,0 +1,4 @@
+# Ignorar los archivos de la carpeta data
+data/ 
+# Ignorar de momento caskagglef
+caskagglef.ipynb
