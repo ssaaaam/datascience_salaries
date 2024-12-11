@@ -32,4 +32,20 @@ El dataset conté les següents 11 variables:
 ```bash
    git clone https://github.com/ssaaaam/datascience_salaries.git
    cd datascience_salaries
-   
+```
+2. Instal·la les dependències necessàries per a aquest projecte:
+- numpy 
+- pandas
+- seaborn
+- matplotlib
+- warnings
+- sklearn
+- xgboost
+- time
+
+## 5. Ús
+
+Una vegada, el repositori ha estat clonat i totes les dependències esmentades instal·lades, només cal executar l'arxiu 'datasciencesalary.ipynb'.
+
+## Crèdits
+Aquest projecte s'ha realitzat com a part del curs d’Aprenentatge Computacional a la Universitat Autònoma de Barcelona, tot el projecte ha sigut desenvolupat per Sergi Almendros Montoya.
