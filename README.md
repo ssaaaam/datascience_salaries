@@ -25,3 +25,11 @@ El dataset conté les següents 11 variables:
 - remote_ratio: Quantitat de treball feta online
 - company_location: Residència de l'empresa
 - company_size: Mida de l'empresa
+
+## 4. Guia d'instal·lació
+
+1. Clona el respositori remot al teu entorn:
+```bash
+   git clone https://github.com/ssaaaam/datascience_salaries.git
+   cd datascience_salaries
+   
